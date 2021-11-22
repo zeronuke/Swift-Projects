@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA5EEF80-3DFC-436B-A37C-3F6E8ACF59D8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F5142A6-6076-4219-BC87-4A67192BE3E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/StackExchangeClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchModerators(with:page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5F5142A6-6076-4219-BC87-4A67192BE3E5 - ebdd4bf706d27b99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ModeratorsExplorer.StackExchangeClient.fetchModerators(with: ModeratorsExplorer.ModeratorRequest, page: Swift.Int, completion: (ModeratorsExplorer.Result&lt;ModeratorsExplorer.PagedModeratorResponse, ModeratorsExplorer.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ModeratorsExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markshen/Documents/SwiftTutorial/InfiniteScroll/ModeratorsExplorer/StackExchangeClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "538">
+               </Location>
+               <Location
+                  uuid = "5F5142A6-6076-4219-BC87-4A67192BE3E5 - 4d4b6e6a65c618c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (Swift.String, Swift.String) -&gt; Swift.String in implicit closure #1 (Swift.String.Type) -&gt; (Swift.String, Swift.String) -&gt; Swift.String in ModeratorsExplorer.StackExchangeClient.fetchModerators(with: ModeratorsExplorer.ModeratorRequest, page: Swift.Int, completion: (ModeratorsExplorer.Result&lt;ModeratorsExplorer.PagedModeratorResponse, ModeratorsExplorer.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ModeratorsExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markshen/Documents/SwiftTutorial/InfiniteScroll/ModeratorsExplorer/StackExchangeClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "119FC7A8-AE93-4661-BF99-05A4E057A14F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/StackExchangeClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchModerators(with:page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D668C8D-F2A8-410B-BD0C-6AB933C2FB6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/ModeratorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "fetchModerators()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFB799CE-9D1F-40D3-9FC6-132B9F7A2BA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/ModeratorsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "fetchModerators()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFB799CE-9D1F-40D3-9FC6-132B9F7A2BA7 - ff482cc6251794a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ModeratorsExplorer.Result&lt;ModeratorsExplorer.PagedModeratorResponse, ModeratorsExplorer.DataResponseError&gt;) -&gt; () in ModeratorsExplorer.ModeratorsViewModel.fetchModerators() -&gt; ()"
+                  moduleName = "ModeratorsExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markshen/Documents/SwiftTutorial/InfiniteScroll/ModeratorsExplorer/ModeratorsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "211">
+               </Location>
+               <Location
+                  uuid = "FFB799CE-9D1F-40D3-9FC6-132B9F7A2BA7 - ff482cc6251794a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ModeratorsExplorer.Result&lt;ModeratorsExplorer.PagedModeratorResponse, ModeratorsExplorer.DataResponseError&gt;) -&gt; () in ModeratorsExplorer.ModeratorsViewModel.fetchModerators() -&gt; ()"
+                  moduleName = "ModeratorsExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markshen/Documents/SwiftTutorial/InfiniteScroll/ModeratorsExplorer/ModeratorsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "259">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68BABFA8-FB65-4FEE-8F99-AA1598795A4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/StackExchangeClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchModerators(with:page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "784D38CB-D64C-4B1F-A786-2A4ACE97CEBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/StackExchangeClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchModerators(with:page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A510ACB6-3D83-4CBC-8596-F16F49CA0B37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ModeratorsExplorer/StackExchangeClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchModerators(with:page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
