@@ -52,7 +52,7 @@ class MasterViewController: UIViewController {
                                    object: nil,
                                    queue: .main) {
       (notification) in
-      self.handleKeyboard(notifications:notification)
+      self.handleKeyboard(notification:notification)
     }
     notificationCenter.addObserver(
       forName: UIResponder.keyboardWillHideNotification,

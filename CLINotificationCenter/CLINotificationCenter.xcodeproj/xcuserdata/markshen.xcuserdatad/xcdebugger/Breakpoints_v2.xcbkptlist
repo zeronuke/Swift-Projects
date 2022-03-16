@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "022E089F-DCAA-41CE-B153-59CDFCE61DC9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C925D89-681E-45E3-A634-7B7FCE734198"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLINotificationCenter/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1C3CBD4-87AA-4FDB-9DD0-027EE859BFA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLINotificationCenter/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "init(number:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1C3CBD4-87AA-4FDB-9DD0-027EE859BFA0 - 560992726b73fa6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CLINotificationCenter.ObservingGnome.__allocating_init(number: Swift.Int) -&gt; CLINotificationCenter.ObservingGnome"
+                  moduleName = "CLINotificationCenter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markshen/Documents/SwiftTutorial/CLINotificationCenter/CLINotificationCenter/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "C1C3CBD4-87AA-4FDB-9DD0-027EE859BFA0 - 3eee16aa74425098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CLINotificationCenter.ObservingGnome.init(number: Swift.Int) -&gt; CLINotificationCenter.ObservingGnome"
+                  moduleName = "CLINotificationCenter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markshen/Documents/SwiftTutorial/CLINotificationCenter/CLINotificationCenter/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
